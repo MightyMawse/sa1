@@ -1,0 +1,5 @@
+move some functions to appropriate global/util/member function
+add more scrape ability to mod_scrape, eg. 'li','p','textarea'
+make values paths and values flexible and editable
+exclude sites
+exclude websites included in scrape

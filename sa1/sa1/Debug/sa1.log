@@ -1,0 +1,5 @@
+﻿  sa1.cpp
+f:\c++project\sa1\sa1\sa1.cpp(169): warning C4018: '<': signed/unsigned mismatch
+f:\c++project\sa1\sa1\sa1.cpp(170): warning C4018: '<': signed/unsigned mismatch
+f:\c++project\sa1\sa1\sa1.cpp(176): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  sa1.vcxproj -> F:\C++Project\sa1\Debug\sa1.exe
